@@ -4,8 +4,8 @@
 
 #####Table of contents
 
-JavaScript
-* Array.map
+[JavaScript](#javascript)
+* [Array.map](#arraymap)
 * Array.reduce
 * Pure Functions
 * .bind
@@ -47,8 +47,9 @@ Libraries, Boilerplates, Tutorials, etc.
 * [create-react-app](https://github.com/facebookincubator/create-react-app) | Create React apps with no build configuration.
 * [react-starter-kit](https://github.com/kriasoft/react-starter-kit) | isomorphic web app boilerplate (Node.js, Express, GraphQL, React.js, Babel 6, PostCSS, Webpack, Browsersync)
 
+<a name="javascript"></a>
 ##JavaScript
-
+<a name="arraymap"></a>
 #####Array.map
 
 In Javascript ([source](http://www.w3schools.com/jsref/jsref_map.asp)):
