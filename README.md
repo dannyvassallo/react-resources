@@ -1,8 +1,9 @@
 [logo]: https://www.wagonhq.com/images/posts/react.png "React Logo"
 ![alt text][logo]
-#React Resources and information
+###React Resources and information
+
 <a name="toc"></a>
-#####Table of contents
+#Table of contents
 
 [JavaScript](#javascript)
 * [Array.map](#arraymap)
@@ -48,10 +49,9 @@ Libraries, Boilerplates, Tutorials, etc.
 * [react-starter-kit](https://github.com/kriasoft/react-starter-kit) | isomorphic web app boilerplate (Node.js, Express, GraphQL, React.js, Babel 6, PostCSS, Webpack, Browsersync)
 
 <a name="javascript"></a>
-##JavaScript
+#JavaScript
 [Back to Table of Contents](#toc)
 
----
 <a name="arraymap"></a>
 ###Array.map
 [Back to Table of Contents](#toc)
@@ -221,10 +221,9 @@ You can check out the working code [here](http://jsfiddle.net/danielvassallo87/0
 
 ---
 
-##React
+#React
 [Back to Table of Contents](#toc)
 
----
 
 ###Imperative vs Declarative
 [Back to Table of Contents](#toc)
@@ -301,10 +300,8 @@ You can check out the working code [here](http://jsfiddle.net/danielvassallo87/0
 
 ---
 
-##React Router
+#React Router
 [Back to Table of Contents](#toc)
-
----
 
 ###Declarative Routing
 [Back to Table of Contents](#toc)
@@ -331,10 +328,8 @@ You can check out the working code [here](http://jsfiddle.net/danielvassallo87/0
 
 ---
 
-##Webpack
+#Webpack
 [Back to Table of Contents](#toc)
-
----
 
 ###Configuration
 [Back to Table of Contents](#toc)
@@ -352,7 +347,7 @@ You can check out the working code [here](http://jsfiddle.net/danielvassallo87/0
 ---
 
 <a name="npm"></a>
-##NPM
+#NPM
 [Back to Table of Contents](#toc)
 
 * [source](https://gist.github.com/AvnerCohen/4051934)
