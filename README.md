@@ -12,7 +12,7 @@
 * .bind
 * this
 
-React
+[React](#react)
 * Imperative vs Declarative
 * Composition
 * Unidirectional Dataflow
@@ -29,14 +29,14 @@ React
 * Events
 * Private Stateless Functional Components
 
-React Router
+[React Router](#router)
 * Declarative Routing
 * Route Configurations
 * Route Matching
 * Animating Route Transitions
 * Query Parameters
 
-Webpack
+[Webpack](#webpack)
 * Configuration
 * HTMLWebpackPluginConfig
 * CSS Loader
@@ -221,6 +221,7 @@ You can check out the working code [here](http://jsfiddle.net/danielvassallo87/0
 
 ---
 
+<a name="react"></a>
 #React
 [Back to Table of Contents](#toc)
 
@@ -300,6 +301,7 @@ You can check out the working code [here](http://jsfiddle.net/danielvassallo87/0
 
 ---
 
+<a name="router"></a>
 #React Router
 [Back to Table of Contents](#toc)
 
@@ -328,6 +330,7 @@ You can check out the working code [here](http://jsfiddle.net/danielvassallo87/0
 
 ---
 
+<a name="webpack"></a>
 #Webpack
 [Back to Table of Contents](#toc)
 
