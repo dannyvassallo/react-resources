@@ -1,7 +1,7 @@
 [logo]: https://www.wagonhq.com/images/posts/react.png "React Logo"
 ![alt text][logo]
 #React Resources and information
-
+<a name="toc"></a>
 #####Table of contents
 
 [JavaScript](#javascript)
@@ -49,8 +49,12 @@ Libraries, Boilerplates, Tutorials, etc.
 
 <a name="javascript"></a>
 ##JavaScript
+[Back to Table of Contents](#toc)
+
+
 <a name="arraymap"></a>
 #####Array.map
+[Back to Table of Contents](#toc)
 
 In Javascript ([source](http://www.w3schools.com/jsref/jsref_map.asp)):
 
@@ -231,9 +235,11 @@ You can check out the working code [here](http://jsfiddle.net/danielvassallo87/0
 <a name="npm"></a>
 ##NPM
 
+[Back to Table of Contents](#toc)
+
 * [source](https://gist.github.com/AvnerCohen/4051934)
 
-*  (Full description and list of commands at - https://npmjs.org/doc/index.html)
+*  Full description and list of commands [here](https://npmjs.org/doc/index.html)
 
 ######Prepand ./bin to your $PATH
 Make sure to export your local $PATH and prepand relative ./node_modules/.bin/:
