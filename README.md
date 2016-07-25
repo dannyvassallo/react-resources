@@ -353,6 +353,8 @@ You can check out the working code [here](http://jsfiddle.net/danielvassallo87/0
 #NPM
 [Back to Table of Contents](#toc)
 
+Here is a little cheatsheet for some of the lesser known NPM commands to assist in your react journey.
+
 * [source](https://gist.github.com/AvnerCohen/4051934)
 
 *  Full description and list of commands [here](https://npmjs.org/doc/index.html)
