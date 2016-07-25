@@ -5,7 +5,7 @@
 #####Table of contents
 
 [JavaScript](#javascript)
-* Array.map
+* [Array.map](#arraymap)
 * Array.reduce
 * Pure Functions
 * .bind
@@ -49,7 +49,7 @@ Libraries, Boilerplates, Tutorials, etc.
 
 <a name="javascript"></a>
 ##JavaScript
-
+<a name="arraymap"></a>
 #####Array.map
 
 In Javascript ([source](http://www.w3schools.com/jsref/jsref_map.asp)):
