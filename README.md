@@ -42,6 +42,10 @@ Webpack
 
 NPM
 
+Libraries, Boilerplates, Tutorials, etc.
+
+* [create-react-app](https://github.com/facebookincubator/create-react-app) | Create React apps with no build configuration.
+* [react-starter-kit](https://github.com/kriasoft/react-starter-kit) | isomorphic web app boilerplate (Node.js, Express, GraphQL, React.js, Babel 6, PostCSS, Webpack, Browsersync)
 
 ##JavaScript
 
