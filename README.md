@@ -53,7 +53,7 @@ Libraries, Boilerplates, Tutorials, etc.
 
 
 <a name="arraymap"></a>
-#####Array.map
+###Array.map
 [Back to Table of Contents](#toc)
 
 In Javascript ([source](http://www.w3schools.com/jsref/jsref_map.asp)):
@@ -199,38 +199,38 @@ var Hello = React.createClass({
 
 You can check out the working code [here](http://jsfiddle.net/danielvassallo87/07r6wa9w/)!
 
-#####Array.reduce
-#####Pure Functions
-#####.bind
-#####this
+###Array.reduce
+###Pure Functions
+###.bind
+###this
 
 ##React
-#####Imperative vs Declarative
-#####Composition
-#####Unidirectional Dataflow
-#####JSX
-#####Virtual DOM
-#####createClass
-#####state
-#####props
-#####props.children
-#####createElement
-#####Lifecycle Hooks
-#####Container vs Presentational Components
-#####Stateless Functional Components
-#####Events
-#####Private Stateless Functional Components
+###Imperative vs Declarative
+###Composition
+###Unidirectional Dataflow
+###JSX
+###Virtual DOM
+###createClass
+###state
+###props
+###props.children
+###createElement
+###Lifecycle Hooks
+###Container vs Presentational Components
+###Stateless Functional Components
+###Events
+###Private Stateless Functional Components
 
 ##React Router
-#####Declarative Routing
-#####Route Configurations
-#####Route Matching
-#####Animating Route Transitions
-#####Query Parameters
+###Declarative Routing
+###Route Configurations
+###Route Matching
+###Animating Route Transitions
+###Query Parameters
 ##Webpack
-#####Configuration
-#####HTMLWebpackPluginConfig
-#####CSS Loader
+###Configuration
+###HTMLWebpackPluginConfig
+###CSS Loader
 
 <a name="npm"></a>
 ##NPM
