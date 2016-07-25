@@ -4,7 +4,7 @@
 
 #####Table of contents
 
-JavaScript
+[JavaScript](##JavaScript)
 * Array.map
 * Array.reduce
 * Pure Functions
