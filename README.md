@@ -2,6 +2,47 @@
 ![alt text][logo]
 #React Resources and information
 
+#####Table of contents
+
+JavaScript
+* Array.map
+* Array.reduce
+* Pure Functions
+* .bind
+* this
+
+React
+* Imperative vs Declarative
+* Composition
+* Unidirectional Dataflow
+* JSX
+* Virtual DOM
+* createClass
+* state
+* props
+* props.children
+* createElement
+* Lifecycle Hooks
+* Container vs Presentational Components
+* Stateless Functional Components
+* Events
+* Private Stateless Functional Components
+
+React Router
+* Declarative Routing
+* Route Configurations
+* Route Matching
+* Animating Route Transitions
+* Query Parameters
+
+Webpack
+* Configuration
+* HTMLWebpackPluginConfig
+* CSS Loader
+
+NPM
+
+
 ##JavaScript
 
 #####Array.map
