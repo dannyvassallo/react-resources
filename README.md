@@ -51,7 +51,7 @@ Libraries, Boilerplates, Tutorials, etc.
 ##JavaScript
 [Back to Table of Contents](#toc)
 
-
+---
 <a name="arraymap"></a>
 ###Array.map
 [Back to Table of Contents](#toc)
@@ -199,42 +199,160 @@ var Hello = React.createClass({
 
 You can check out the working code [here](http://jsfiddle.net/danielvassallo87/07r6wa9w/)!
 
+---
+
 ###Array.reduce
+[Back to Table of Contents](#toc)
+
+---
+
 ###Pure Functions
+[Back to Table of Contents](#toc)
+
+---
+
 ###.bind
+[Back to Table of Contents](#toc)
+
+---
+
 ###this
+[Back to Table of Contents](#toc)
+
+---
 
 ##React
+[Back to Table of Contents](#toc)
+
+---
+
 ###Imperative vs Declarative
+[Back to Table of Contents](#toc)
+
+---
+
 ###Composition
+[Back to Table of Contents](#toc)
+
+---
+
 ###Unidirectional Dataflow
+[Back to Table of Contents](#toc)
+
+---
+
 ###JSX
+[Back to Table of Contents](#toc)
+
+---
+
 ###Virtual DOM
+[Back to Table of Contents](#toc)
+
+---
+
 ###createClass
+[Back to Table of Contents](#toc)
+
+---
+
 ###state
+[Back to Table of Contents](#toc)
+
+---
+
 ###props
+[Back to Table of Contents](#toc)
+
+---
+
 ###props.children
+[Back to Table of Contents](#toc)
+
+---
+
 ###createElement
+[Back to Table of Contents](#toc)
+
+---
+
 ###Lifecycle Hooks
+[Back to Table of Contents](#toc)
+
+---
+
 ###Container vs Presentational Components
-###Stateless Functional Components
+[Back to Table of Contents](#toc)
+
+---
+
+###Stateless Functional Component
+[Back to Table of Contents](#toc)s
+
+---
+
 ###Events
+[Back to Table of Contents](#toc)
+
+---
+
 ###Private Stateless Functional Components
+[Back to Table of Contents](#toc)
+
+---
 
 ##React Router
+[Back to Table of Contents](#toc)
+
+---
+
 ###Declarative Routing
+[Back to Table of Contents](#toc)
+
+---
+
 ###Route Configurations
+[Back to Table of Contents](#toc)
+
+---
+
 ###Route Matching
+[Back to Table of Contents](#toc)
+
+---
+
 ###Animating Route Transitions
+[Back to Table of Contents](#toc)
+
+---
+
 ###Query Parameters
+[Back to Table of Contents](#toc)
+
+---
+
 ##Webpack
+[Back to Table of Contents](#toc)
+
+---
+
 ###Configuration
+[Back to Table of Contents](#toc)
+
+---
+
 ###HTMLWebpackPluginConfig
+[Back to Table of Contents](#toc)
+
+---
+
 ###CSS Loader
+[Back to Table of Contents](#toc)
+
+---
 
 <a name="npm"></a>
 ##NPM
-
 [Back to Table of Contents](#toc)
 
 * [source](https://gist.github.com/AvnerCohen/4051934)
