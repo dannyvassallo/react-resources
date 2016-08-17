@@ -49,6 +49,7 @@ Libraries, Boilerplates, Tutorials, etc.
 * [react-starter-kit](https://github.com/kriasoft/react-starter-kit) | isomorphic web app boilerplate (Node.js, Express, GraphQL, React.js, Babel 6, PostCSS, Webpack, Browsersync)
 * [React.js Introduction For People Who Know Just Enough jQuery To Get By](http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/) | Blog post for react beginners
 * [I Learned How to be Productive in React in a Week and You Can, Too](https://css-tricks.com/productive-in-react/) | CSS Tricks post about react for beginners
+* [9 things every reactjs beginner should know](https://camjackson.net/post/9-things-every-reactjs-beginner-should-know) | It's in the name
 
 <a name="javascript"></a>
 #JavaScript
