@@ -47,6 +47,8 @@ Libraries, Boilerplates, Tutorials, etc.
 
 * [create-react-app](https://github.com/facebookincubator/create-react-app) | Create React apps with no build configuration.
 * [react-starter-kit](https://github.com/kriasoft/react-starter-kit) | isomorphic web app boilerplate (Node.js, Express, GraphQL, React.js, Babel 6, PostCSS, Webpack, Browsersync)
+* [React.js Introduction For People Who Know Just Enough jQuery To Get By](http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/) | Blog post for react beginners
+* [I Learned How to be Productive in React in a Week and You Can, Too](https://css-tricks.com/productive-in-react/) | CSS Tricks post about react for beginners
 
 <a name="javascript"></a>
 #JavaScript
